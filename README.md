@@ -13,7 +13,7 @@ The dataset for training the spam detection model consists of labelled text mess
 ## Files in the Repository
 
 - `Spam_Detection.ipynb`: Jupyter Notebook containing the data exploration, preprocessing, model training, and evaluation.
-- `spam.csv`: The dataset containing the spam and ham messages. Dataset from [Kaggle](https://www.kaggle.com/datasets/shantanudhakadd/email-spam-detection-dataset-classification/data)
+- `spam.csv`: The dataset containing the spam and ham messages. Dataset from [Kaggle](https://www.kaggle.com/datasets/shantanudhakadd/email-spam-detection-dataset-classification/data).
 - `requirements.txt`: A list of Python libraries required to run the notebook.
 
 ## Technologies Used
